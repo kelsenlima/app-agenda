@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "CRUDReactNativeSQLite",
-    "slug": "CRUDReactNativeSQLite",
+    "name": "Agenda Plus",
+    "slug": "Agenda-Plus",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#030333"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,11 +20,11 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.testcompany.crudreactnativesqlite",
+      "package": "com.flameus.agendaplus",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#030333"
       }
     },
     "web": {
