@@ -46,7 +46,7 @@ const ViewAllUser = () => {
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      <View style={{ flex: 1, backgroundColor: 'white' }}>
+      <View style={{ flex: 1, backgroundColor: '#030333' }}>
         <View style={{ flex: 1 }}>
           <FlatList
             style={{ marginTop: 30 }}

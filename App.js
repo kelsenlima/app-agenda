@@ -24,7 +24,7 @@ const App = () => {
           options={{
             title: 'Registro de Usuários',
             headerStyle: {
-              backgroundColor: '#00AD98',
+              backgroundColor: '#8D1A28',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {
@@ -38,7 +38,7 @@ const App = () => {
           options={{
             title: 'Cadastrar Usuário',
             headerStyle: {
-              backgroundColor: '#2992C4',
+              backgroundColor: '#8D1A28',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {
@@ -52,7 +52,7 @@ const App = () => {
           options={{
             title: 'Atualizar Usuário',
             headerStyle: {
-              backgroundColor: '#A45BB9',
+              backgroundColor: '#8D1A28',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {
@@ -66,7 +66,7 @@ const App = () => {
           options={{
             title: 'Visualizar Usuário',
             headerStyle: {
-              backgroundColor: '#F9AD29',
+              backgroundColor: '#8D1A28',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {
@@ -80,7 +80,7 @@ const App = () => {
           options={{
             title: 'Visualizar Todos os Usuários',
             headerStyle: {
-              backgroundColor: '#384F62',
+              backgroundColor: '#8D1A28',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {
@@ -94,7 +94,7 @@ const App = () => {
           options={{
             title: 'Excluir Usuário',
             headerStyle: {
-              backgroundColor: '#D1503A',
+              backgroundColor: '#8D1A28',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {

@@ -27,27 +27,27 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      <View style={{ flex: 1, backgroundColor: 'white' }}>
+      <View style={{ flex: 1, backgroundColor: '#030333' }}>
         <View style={{ flex: 1 }}>
           <View style={{ flex: 1 }}>
 
             <MyImageButton
               title="Registrar Usuário"
-              btnColor='#2992C4'
+              btnColor='#164179'
               btnIcon="user-plus"
               customClick={() => navigation.navigate('Register')}
             />
 
             <MyImageButton
               title="Atualizar Usuário"
-              btnColor='#A45BB9'
+              btnColor='#532D91'
               btnIcon="user-circle"
               customClick={() => navigation.navigate('Update')}
             />
 
             <MyImageButton
               title="Visualizar Usuário"
-              btnColor='#F9AD29'
+              btnColor='#AE7225'
               btnIcon="user"
               customClick={() => navigation.navigate('View')}
             />
@@ -59,7 +59,7 @@ const HomeScreen = ({ navigation }) => {
             />
             <MyImageButton
               title="Excluir Usuário"
-              btnColor='#D1503A'
+              btnColor='#8D1A28'
               btnIcon="user-times"
               customClick={() => navigation.navigate('Delete')}
             />
