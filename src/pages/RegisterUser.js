@@ -42,7 +42,7 @@ const RegisterUser = ({ navigation }) => {
           if (results.rowsAffected > 0) {
             Alert.alert(
               'Sucesso',
-              'Usuário Registrado com Sucesso',
+              'Usuário Registrado com Sucesso', 
               [
                 {
                   text: 'Ok',
